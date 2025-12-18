@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "toalety",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 27, "nazwa": "Toaleta", "nazwa_eng": "Toilet", "zdj": "tabliczki/JPEG_20250502085242181.jpg" }, "geometry": { "type": "Point", "coordinates": [ 17.002002959082567, 52.397765333741638 ] } },
+{ "type": "Feature", "properties": { "id": 36, "nazwa": "Toaleta", "nazwa_eng": "Toilet", "zdj": "tabliczki/JPEG_20250502092422672.jpg" }, "geometry": { "type": "Point", "coordinates": [ 17.006412920243328, 52.398684336946673 ] } },
+{ "type": "Feature", "properties": { "id": 39, "nazwa": "Toaleta", "nazwa_eng": "Toilet","zdj": "tabliczki/JPEG_20250502093337720.jpg" }, "geometry": { "type": "Point", "coordinates": [ 17.009890669009348, 52.39949630178188 ] } },
+{ "type": "Feature", "properties": { "id": 43, "nazwa": "Toaleta", "nazwa_eng": "Toilet","zdj": "tabliczki/JPEG_20250502095749085.jpg" }, "geometry": { "type": "Point", "coordinates": [ 17.011143638799961, 52.399327430067949 ] } },
+{ "type": "Feature", "properties": { "id": 84, "nazwa": "Toaleta", "nazwa_eng": "Toilet","zdj": "tabliczki/JPEG_20250502113831992.jpg" }, "geometry": { "type": "Point", "coordinates": [ 17.002678341713938, 52.401712162677995 ] } },
+{ "type": "Feature", "properties": { "id": 128, "nazwa": "Toaleta", "nazwa_eng": "Toilet","zdj": "tabliczki/JPEG_20250502135827497.jpg" }, "geometry": { "type": "Point", "coordinates": [ 16.996748347968524, 52.402281562003459 ] } },
+{ "type": "Feature", "properties": { "id": 163, "nazwa": "Toalety", "nazwa_eng": "Toilet", "zdj": "tabliczki/JPEG_20250502141414303.jpg" }, "geometry": { "type": "Point", "coordinates": [ 16.994328897454107, 52.400296822787695 ] } }
+]
+}

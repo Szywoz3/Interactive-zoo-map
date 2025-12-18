@@ -1,0 +1,24 @@
+lat: Panthera leo</br>
+de: Löwe</br>
+ua: Лев</br>
+
+Distribution: Sub-Saharan Africa and a small population in India (Gir)</br>
+Habitat: Savannas, grasslands, open grassy areas, and woodlands</br>
+Diet: Hoofed mammals (gazelles, zebras, antelopes), other terrestrial animals; also carrion</br>
+
+The lion is a large cat of the genus Panthera.
+Males are distinguished by their impressive manes — their color and size may signal health and strength.
+Lions live in family groups called prides, consisting of several females, their offspring, and sometimes a few males.
+Females often hunt together, mainly preying on medium-sized hoofed animals.
+Females usually give birth to 1–4 cubs (sometimes more) after about 110 days of gestation.
+In the wild, lions can live around 10–14 years, but often longer in zoos (depending on conditions).
+Lion populations are declining due to habitat loss, human conflict, and hunting.</br>
+
+Red List:</br>
+Vulnerable - VU</br>
+
+Sources:
+<a href="https://pl.wikipedia.org/wiki/Lew_afryka%C5%84ski#/media/Plik:Lion_distribution.png">link 1</a>,
+<a href="https://pl.wikipedia.org/wiki/Lew_afryka%C5%84ski#/media/Plik:Lion_waiting_in_Namibia.jpg">link 2</a>,
+<a href="https://pl.wikipedia.org/wiki/Lew_afryka%C5%84ski">link 3</a>,
+<a href="https://en.wikipedia.org/wiki/Lion">link 4</a>
